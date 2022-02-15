@@ -1,11 +1,11 @@
 package Model;
 
 public class CarSuperClass {
-    public String CarName;
-    public String CarType;
-    public String CarBrandName;
-    public int CarTyreCount;
-    public double CarCost;
+    private String CarName;
+    private String CarType;
+    private String CarBrandName;
+    private int CarTyreCount;
+    private double CarCost;
 
     public String getCarName() {
         return CarName;

@@ -2,12 +2,12 @@ package Model;
 
 public class CarBrakeModel {
 
-    public double PeakForce;
-    public double Power;
-    public double Weight;
-    public double ContinousPowerDissipation;
-    public double Fade;
-    public double Drag;
+    private double PeakForce;
+    private double Power;
+    private double Weight;
+    private double ContinousPowerDissipation;
+    private double Fade;
+    private double Drag;
 
     public double getPeakForce() {
         return PeakForce;

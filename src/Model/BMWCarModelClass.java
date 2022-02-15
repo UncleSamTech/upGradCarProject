@@ -2,13 +2,13 @@ package Model;
 
 public class BMWCarModelClass extends CarSuperClass{
 
-    public String Series;
-    public String BodyColor;
-    public BMWWheels WheelType;
-    public double Cost;
-    public double Power;
-    public int DrivingPerformance;
-    public double EnergyConsumption;
+    private String Series;
+    private String BodyColor;
+    private BMWWheels WheelType;
+    private double Cost;
+    private double Power;
+    private int DrivingPerformance;
+    private double EnergyConsumption;
 
     public String getSeries() {
         return Series;
