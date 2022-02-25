@@ -49,14 +49,14 @@
  └── Scratch and Consoles
  ```
  
- ## Steps
+ #### Steps
  
- >> Visit the repository https://github.com/UncleSamTech/upGradCarProject
- >> Download Git if you don't have it installed here => https://git-scm.com/downloads
- >> Clone the project from as-is >> git clone https://github.com/UncleSamTech/upGradCarProject.git
- >> Once cloned..checkout to your branch >> git checkout -b feature/SinghGroup
- >> Update with the latest resource for your branch >> git pull origin [branch_name] i.e feature/SinghGroup (git pull origin feature/SinghGroup)
- >> Code along by choosing the carManufaturer assigned to you
+ - Visit the repository https://github.com/UncleSamTech/upGradCarProject
+ - Download Git if you don't have it installed here => https://git-scm.com/downloads
+ - Clone the project from as-is >> git clone https://github.com/UncleSamTech/upGradCarProject.git
+ - Once cloned..checkout to your branch >> git checkout -b feature/SinghGroup
+ - Update with the latest resource for your branch >> git pull origin [branch_name] i.e feature/SinghGroup (git pull origin feature/SinghGroup)
+ - Code along by choosing the carManufaturer assigned to you
  
  #### SinghGroup >> Work on Toyota
  #### RaoGroup >> Work on BMW
