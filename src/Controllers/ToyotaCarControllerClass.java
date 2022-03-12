@@ -6,4 +6,6 @@ import Model.CarBrakeModel;
 
 public class ToyotaCarControllerClass  {
 
+    public String carSpeed;
+
 }
