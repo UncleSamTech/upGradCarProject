@@ -9,7 +9,16 @@ public class BMWCarModelClass extends CarSuperClass{
     private double Power;
     private int DrivingPerformance;
     private double EnergyConsumption;
-
+    private int sound;
+    
+    public int getSound() {
+    	return sound;
+    }
+    
+    public void setSound(int sound) {
+    	this.sound = sound;
+    }
+    
     public String getSeries() {
         return Series;
     }

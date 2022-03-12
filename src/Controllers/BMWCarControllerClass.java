@@ -23,7 +23,8 @@ public class BMWCarControllerClass implements CarUpgradInterface {
 
     @Override
     public int implementHorn() {
-        return 0;
+    	
+        return BmwModel.getSound()>0?1 : 0;
     }
 
     @Override
